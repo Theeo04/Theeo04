@@ -44,6 +44,11 @@
 - **Netflix Clone Project** - built with Next.js, uses Firebase Authentication for secure user management and Tailwind CSS for responsive design. The project integrates a Movie Database API to fetch and display movies on the homepage, with all user registrations organized in Firebase’s Authentication panel for easy account management.
 
     [Github Project](https://github.com/Theeo04/NetflixReplica)
+
+  ### Learning Repositories:
+  - **[Cassandra DB](https://github.com/Theeo04/cassandra-db-tutorial.git)**: Theoretical aspect for configuring a cluster + a practical part
+  - **[How to install and how Istio worksgithub](https://github.com/Theeo04/istio-simple-instalation)** - simple instalation + a some theoretical aspects
+  - **[Puppet Configuration Mangement](soon)** - soon 
     
     
 
