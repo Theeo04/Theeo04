@@ -45,7 +45,7 @@
 
     [Github Project](https://github.com/Theeo04/NetflixReplica)
 
-  ### Learning Repositories:
+  ### 📖 Learning Repositories:
   - **[Cassandra DB](https://github.com/Theeo04/cassandra-db-tutorial.git)**: Theoretical aspect for configuring a cluster + a practical part
   - **[How to install and how Istio worksgithub](https://github.com/Theeo04/istio-simple-instalation)** - simple instalation + a some theoretical aspects
   - **[Puppet Configuration Mangement](soon)** - soon 
